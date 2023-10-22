@@ -22,7 +22,7 @@
 
 ### プログラミング
 
-- [JavaScriptの基礎](./programming/javascript-basics.md)
+- [インターフェイスについて](./programming/C#-インターフェイスについて.md)
 - [Pythonでのデータ処理](./programming/python-data-processing.md)
 ... (他のトピック)
 
