@@ -22,7 +22,7 @@
 
 ### プログラミング
 
-- [インターフェイスについて](./programming/InterfaceC#.md)
+- [インターフェイスについて](./programming/InterfaceCSharp.md)
 - [Pythonでのデータ処理](./programming/python-data-processing.md)
 ... (他のトピック)
 
