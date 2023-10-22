@@ -38,7 +38,7 @@
 
 ## お問い合わせ・フィードバック
 
-何か質問やフィードバックがあれば、[Issues](https://github.com/ユーザー名/TIL/issues) または [Twitter](https://twitter.com/あなたのユーザー名) までお知らせください。
+何か質問やフィードバックがあれば、[Issues]((https://github.com/InuDogff14/Today-I-Learned/issues)) または [Twitter](https://twitter.com/あなたのユーザー名) までお知らせください。
 
 ## ライセンス
 
