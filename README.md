@@ -23,7 +23,7 @@
 ### プログラミング
 
 - [インターフェイスについて](./programming/InterfaceCSharp.md)
-- [Pythonでのデータ処理](./programming/python-data-processing.md)
+- [MemoryStreamについて](./programming/MemoryStreamCSharp.md)
 ... (他のトピック)
 
 ### デザイン
