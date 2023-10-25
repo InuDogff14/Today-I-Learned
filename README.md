@@ -26,6 +26,9 @@
 - [MemoryStreamについて](./programming/MemoryStreamCSharp.md)
 ... (他のトピック)
 
+### ネットワーク
+- [イーサネットについて](./Network/Etherner.md)
+
 ### デザイン
 
 - [UIデザインの原則](./design/ui-principles.md)
